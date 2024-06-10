@@ -201,3 +201,11 @@ ytd-app[guide-persistent-and-visible] ytd-page-manager.ytd-app {
     width: 50% !important;
     margin: 0 auto !important;
 }
+
+#contents {
+    display: none;
+}
+
+#above-the-fold {
+    margin-top: 24rem;
+}
